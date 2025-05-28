@@ -4,3 +4,11 @@
     object-fit: cover;
     display: block;
 }
+
+.container {
+    margin-top: 2rem;
+}
+
+.container input {
+    margin-bottom: 2rem;
+}
