@@ -1,4 +1,4 @@
-export default function Card({ actors }) {
+export default function ActorsCard({ actors }) {
   return actors.map((actor) => (
     <div className="col-4" key={actor.id}>
       <div className="card h-100">
